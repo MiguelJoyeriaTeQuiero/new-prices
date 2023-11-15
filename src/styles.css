@@ -24,7 +24,7 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 12vh;
+    height: 10vh;
     z-index: 1;
     display: flex;
     justify-content: space-around;
@@ -55,12 +55,12 @@
 .metal{
     font-family: 'Roboto', sans-serif;
     color: aliceblue;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .price{
     font-family: 'Roboto', sans-serif;
     color: aliceblue;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: normal;
 }
