@@ -64,3 +64,19 @@
     font-size: 1.5rem;
     font-weight: normal;
 }
+
+.igic{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 10px;
+}
+
+.igic h1{
+    font-size: 1rem;
+    color: #fff;
+    font-family: 'nunito';
+    font-weight: normal;
+}

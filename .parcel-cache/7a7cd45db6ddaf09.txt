@@ -26,7 +26,7 @@
 48C:\Users\Usuario\html-price\node_modules\timsort133444445867301559 1
 51C:\Users\Usuario\html-price\node_modules\is-extglob133444445866046020 1
 71C:\Users\Usuario\html-price\node_modules\css-what\lib\commonjs\index.js133444445865595986 0
-32C:\Users\Usuario\html-price\dist133445087681187323 1
+32C:\Users\Usuario\html-price\dist133445937622752574 1
 101C:\Users\Usuario\html-price\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133444445884294403 0
 71C:\Users\Usuario\html-price\node_modules\web-vitals\dist\lib\observe.js133444449745769546 0
 72C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\regions\PY.js133444445899030988 0
@@ -112,7 +112,7 @@
 62C:\Users\Usuario\html-price\node_modules\domutils\lib\index.js133444445866346144 0
 95C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\lib\use-native.js133444449743063712 0
 64C:\Users\Usuario\html-price\node_modules\@lezer\lr\dist\index.js133444445880373221 0
-42C:\Users\Usuario\html-price\src\index.html133445077948815591 0
+42C:\Users\Usuario\html-price\src\index.html133445937396435535 0
 65C:\Users\Usuario\html-price\node_modules\undici\types\client.d.ts133444449764945203 0
 53C:\Users\Usuario\html-price\node_modules\universalify133444449735383656 1
 51C:\Users\Usuario\html-price\node_modules\acorn-walk133444449737514248 1
@@ -122,7 +122,7 @@
 104C:\Users\Usuario\html-price\node_modules\@vercel\static-config\node_modules\ajv\dist\standalone\index.js133444449762830264 0
 55C:\Users\Usuario\html-price\node_modules\ts-node\node10133444449762840260 1
 88C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\parser\create.js133444445959733534 0
-42C:\Users\Usuario\html-price\src\styles.css133445087680689662 0
+42C:\Users\Usuario\html-price\src\styles.css133445937622449271 0
 61C:\Users\Usuario\html-price\node_modules\@parcel\reporter-cli133444445920321821 1
 68C:\Users\Usuario\html-price\node_modules\get-stream\buffer-stream.js133444449734393427 0
 74C:\Users\Usuario\html-price\node_modules\escape-string-regexp\package.json133444445865094540 0
@@ -225,7 +225,7 @@
 70C:\Users\Usuario\html-price\node_modules\@parcel\core\lib\constants.js133444445948775337 0
 56C:\Users\Usuario\html-price\node_modules\ts-toolbelt\out133444449745619550 1
 63C:\Users\Usuario\html-price\node_modules\emoji-regex\index.d.ts133444449734340698 0
-43C:\Users\Usuario\html-price\dist\index.html133445086759200843 0
+43C:\Users\Usuario\html-price\dist\index.html133445937399597379 0
 63C:\Users\Usuario\html-price\node_modules\entities\lib\generated133444445869579701 1
 107C:\Users\Usuario\html-price\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133444445876747144 0
 46C:\Users\Usuario\html-price\node_modules\chalk133444445867131522 1
@@ -5698,7 +5698,7 @@
 75C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\sdch.js133444445900106248 0
 78C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\walker133444445967625607 1
 99C:\Users\Usuario\html-price\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133444445889317671 0
-51C:\Users\Usuario\html-price\dist\video.a7197634.mp4133445086468282616 0
+51C:\Users\Usuario\html-price\dist\video.a7197634.mp4133445936572425403 0
 90C:\Users\Usuario\html-price\node_modules\@parcel\core\test\fixtures\custom-format-mismatch133444445968450990 1
 87C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\walker\index.js133444445967655652 0
 85C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\utils\List.js133444445967885640 0
@@ -6926,7 +6926,7 @@
 85C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\css-exclusions.js133444445886380818 0
 95C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\css-file-selector-button.js133444445886422294 0
 90C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\css-filter-function.js133444445886462207 0
-55C:\Users\Usuario\html-price\dist\index.4d663569.css.map133445087681177323 0
+55C:\Users\Usuario\html-price\dist\index.4d663569.css.map133445937622742690 0
 59C:\Users\Usuario\html-price\node_modules\@parcel\diagnostic133444445918876431 1
 82C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\css-filters.js133444445886482200 0
 88C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\css-focus-visible.js133444445886592194 0
@@ -8299,7 +8299,7 @@
 93C:\Users\Usuario\html-price\node_modules\@mapbox\node-pre-gyp\node_modules\minipass\README.md133444449737283015 0
 81C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\bin133444449734483437 1
 90C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\CHANGELOG.md133444449745419552 0
-55C:\Users\Usuario\html-price\dist\html-price.59712999.js133445086759300866 0
+55C:\Users\Usuario\html-price\dist\html-price.59712999.js133445937399281011 0
 94C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\lib\find-made.js133444449735273639 0
 116C:\Users\Usuario\html-price\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Parentheses.js133444445884639692 0
 98C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\lib\mkdirp-native.js133444449738034287 0
@@ -9993,5 +9993,5 @@
 72C:\Users\Usuario\html-price\node_modules\.bin\update-browserslist-db.cmd133444446008642349 0
 72C:\Users\Usuario\html-price\node_modules\.bin\update-browserslist-db.ps1133444446008642349 0
 56C:\Users\Usuario\html-price\node_modules\.bin\vercel.cmd133444449782252845 0
-59C:\Users\Usuario\html-price\dist\html-price.59712999.js.map133445086759330884 0
-51C:\Users\Usuario\html-price\dist\index.4d663569.css133445087681147289 0
+59C:\Users\Usuario\html-price\dist\html-price.59712999.js.map133445937399331034 0
+51C:\Users\Usuario\html-price\dist\index.4d663569.css133445937622672589 0

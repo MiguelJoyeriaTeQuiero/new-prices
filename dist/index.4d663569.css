@@ -21,11 +21,11 @@
 
 .prices {
   z-index: 1;
-  background: #0e96c4;
+  background: #41abd3;
   justify-content: space-around;
   align-items: center;
   width: 100%;
-  height: 12vh;
+  height: 10vh;
   display: flex;
   position: absolute;
   bottom: 0;
@@ -55,13 +55,29 @@
 .metal {
   color: #f0f8ff;
   font-family: Roboto, sans-serif;
-  font-size: 2rem;
+  font-size: 1rem;
 }
 
 .price {
   color: #f0f8ff;
   font-family: Roboto, sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.igic {
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  display: flex;
+  position: absolute;
+  bottom: 0;
+}
+
+.igic h1 {
+  color: #fff;
+  font-family: nunito;
+  font-size: 1rem;
   font-weight: normal;
 }
 
