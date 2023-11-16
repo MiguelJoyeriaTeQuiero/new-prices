@@ -24,12 +24,12 @@
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 10vh;
+    height: 12vh;
     z-index: 1;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background: #41abd3;
+    background: #008FEF;
 }
 
 .spetial{
@@ -53,13 +53,13 @@
 }
 
 .metal{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'nunito', sans-serif;
     color: aliceblue;
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 .price{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'nunito', sans-serif;
     color: aliceblue;
     font-size: 1.5rem;
     font-weight: normal;
