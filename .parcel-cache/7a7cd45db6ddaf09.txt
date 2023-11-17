@@ -26,7 +26,7 @@
 48C:\Users\Usuario\html-price\node_modules\timsort133444445867301559 1
 51C:\Users\Usuario\html-price\node_modules\is-extglob133444445866046020 1
 71C:\Users\Usuario\html-price\node_modules\css-what\lib\commonjs\index.js133444445865595986 0
-32C:\Users\Usuario\html-price\dist133446791908994890 1
+32C:\Users\Usuario\html-price\dist133446834520870438 1
 101C:\Users\Usuario\html-price\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133444445884294403 0
 71C:\Users\Usuario\html-price\node_modules\web-vitals\dist\lib\observe.js133444449745769546 0
 72C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\regions\PY.js133444445899030988 0
@@ -85,7 +85,7 @@
 80C:\Users\Usuario\html-price\node_modules\@cspotcode\source-map-support\README.md133444449738972627 0
 64C:\Users\Usuario\html-price\node_modules\@parcel\core\index.d.ts133444445969180996 0
 85C:\Users\Usuario\html-price\node_modules\@swc\helpers\_\_super_prop_base\package.json133444445891813442 0
-38C:\Users\Usuario\html-price\src\assets133446133783914816 1
+38C:\Users\Usuario\html-price\src\assets133446834405611719 1
 66C:\Users\Usuario\html-price\node_modules\merge-stream\package.json133444449733810008 0
 76C:\Users\Usuario\html-price\node_modules\@ts-morph\common\dist\typescript.js133444449764545207 0
 75C:\Users\Usuario\html-price\node_modules\@parcel\packager-html\package.json133444445901416687 0
@@ -112,7 +112,7 @@
 62C:\Users\Usuario\html-price\node_modules\domutils\lib\index.js133444445866346144 0
 95C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\lib\use-native.js133444449743063712 0
 64C:\Users\Usuario\html-price\node_modules\@lezer\lr\dist\index.js133444445880373221 0
-42C:\Users\Usuario\html-price\src\index.html133446791873499785 0
+42C:\Users\Usuario\html-price\src\index.html133446792798240393 0
 65C:\Users\Usuario\html-price\node_modules\undici\types\client.d.ts133444449764945203 0
 53C:\Users\Usuario\html-price\node_modules\universalify133444449735383656 1
 51C:\Users\Usuario\html-price\node_modules\acorn-walk133444449737514248 1
@@ -128,14 +128,14 @@
 74C:\Users\Usuario\html-price\node_modules\escape-string-regexp\package.json133444445865094540 0
 73C:\Users\Usuario\html-price\node_modules\nth-check\lib\esm\compile.js.map133444445868306888 0
 78C:\Users\Usuario\html-price\node_modules\@nodelib\fs.scandir\out\utils\fs.d.ts133444449749721099 0
-50C:\Users\Usuario\html-price\src\assets\desktop.ini133446133783914816 0
+50C:\Users\Usuario\html-price\src\assets\desktop.ini133446834405601721 0
 52C:\Users\Usuario\html-price\node_modules\signal-exit133444449752071609 1
 80C:\Users\Usuario\html-price\node_modules\minipass\node_modules\yallist\README.md133444449737564253 0
 96C:\Users\Usuario\html-price\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133444445886310850 0
 72C:\Users\Usuario\html-price\node_modules\type-fest\source\utilities.d.ts133444445871305167 0
 93C:\Users\Usuario\html-price\node_modules\@vercel\fun\dist\src\runtimes\python2.7\bootstrap.js133444449759294249 0
 108C:\Users\Usuario\html-price\node_modules\@vercel\static-config\node_modules\ajv\lib\vocabularies\jtd\type.ts133444449777471459 0
-48C:\Users\Usuario\html-price\src\assets\video.mp4133446133340139084 0
+48C:\Users\Usuario\html-price\src\assets\video.mp4133446833918282791 0
 88C:\Users\Usuario\html-price\node_modules\csso\node_modules\mdn-data\css\definitions.json133444445920477078 0
 87C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\css-writing-mode.js133444445888292204 0
 74C:\Users\Usuario\html-price\node_modules\vercel\dist\VERCEL_DIR_README.txt133444449764295190 0
@@ -225,7 +225,7 @@
 70C:\Users\Usuario\html-price\node_modules\@parcel\core\lib\constants.js133444445948775337 0
 56C:\Users\Usuario\html-price\node_modules\ts-toolbelt\out133444449745619550 1
 63C:\Users\Usuario\html-price\node_modules\emoji-regex\index.d.ts133444449734340698 0
-43C:\Users\Usuario\html-price\dist\index.html133446791882891016 0
+43C:\Users\Usuario\html-price\dist\index.html133446834507192927 0
 63C:\Users\Usuario\html-price\node_modules\entities\lib\generated133444445869579701 1
 107C:\Users\Usuario\html-price\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133444445876747144 0
 46C:\Users\Usuario\html-price\node_modules\chalk133444445867131522 1
@@ -5698,7 +5698,7 @@
 75C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\features\sdch.js133444445900106248 0
 78C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\walker133444445967625607 1
 99C:\Users\Usuario\html-price\node_modules\@swc\helpers\_\_class_private_field_loose_key\package.json133444445889317671 0
-51C:\Users\Usuario\html-price\dist\video.a7197634.mp4133446133962562278 0
+51C:\Users\Usuario\html-price\dist\video.a7197634.mp4133446834520760459 0
 90C:\Users\Usuario\html-price\node_modules\@parcel\core\test\fixtures\custom-format-mismatch133444445968450990 1
 87C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\walker\index.js133444445967655652 0
 85C:\Users\Usuario\html-price\node_modules\csso\node_modules\css-tree\lib\utils\List.js133444445967885640 0
