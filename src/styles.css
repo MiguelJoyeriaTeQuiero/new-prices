@@ -56,14 +56,14 @@
 .metal{
     font-family: 'nunito', sans-serif;
     color: aliceblue;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #222
 }
 
 .price{
     font-family: 'nunito', sans-serif;
     color: aliceblue;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: normal;
     color: #222
 }
@@ -79,7 +79,7 @@
 }
 
 .igic h1{
-    font-size: 1rem;
+    font-size: 0.8rem;
     color: #fff;
     font-family: 'nunito';
     font-weight: normal;
