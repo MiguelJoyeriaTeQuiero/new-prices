@@ -26,7 +26,7 @@
 48C:\Users\Usuario\html-price\node_modules\timsort133444445867301559 1
 51C:\Users\Usuario\html-price\node_modules\is-extglob133444445866046020 1
 71C:\Users\Usuario\html-price\node_modules\css-what\lib\commonjs\index.js133444445865595986 0
-32C:\Users\Usuario\html-price\dist133451259678340931 1
+32C:\Users\Usuario\html-price\dist133451992174310256 1
 101C:\Users\Usuario\html-price\node_modules\htmlnano\docs\versioned_docs\version-1.1.1\060-contribute.md133444445884294403 0
 71C:\Users\Usuario\html-price\node_modules\web-vitals\dist\lib\observe.js133444449745769546 0
 72C:\Users\Usuario\html-price\node_modules\caniuse-lite\data\regions\PY.js133444445899030988 0
@@ -112,7 +112,7 @@
 62C:\Users\Usuario\html-price\node_modules\domutils\lib\index.js133444445866346144 0
 95C:\Users\Usuario\html-price\node_modules\@ts-morph\common\node_modules\mkdirp\lib\use-native.js133444449743063712 0
 64C:\Users\Usuario\html-price\node_modules\@lezer\lr\dist\index.js133444445880373221 0
-42C:\Users\Usuario\html-price\src\index.html133451149190100781 0
+42C:\Users\Usuario\html-price\src\index.html133451991825258418 0
 65C:\Users\Usuario\html-price\node_modules\undici\types\client.d.ts133444449764945203 0
 53C:\Users\Usuario\html-price\node_modules\universalify133444449735383656 1
 51C:\Users\Usuario\html-price\node_modules\acorn-walk133444449737514248 1
@@ -225,7 +225,7 @@
 70C:\Users\Usuario\html-price\node_modules\@parcel\core\lib\constants.js133444445948775337 0
 56C:\Users\Usuario\html-price\node_modules\ts-toolbelt\out133444449745619550 1
 63C:\Users\Usuario\html-price\node_modules\emoji-regex\index.d.ts133444449734340698 0
-43C:\Users\Usuario\html-price\dist\index.html133451259678320968 0
+43C:\Users\Usuario\html-price\dist\index.html133451992174300279 0
 63C:\Users\Usuario\html-price\node_modules\entities\lib\generated133444445869579701 1
 107C:\Users\Usuario\html-price\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133444445876747144 0
 46C:\Users\Usuario\html-price\node_modules\chalk133444445867131522 1
